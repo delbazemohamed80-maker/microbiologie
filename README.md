@@ -24,11 +24,9 @@ CdCl2+Lavendula	317	325
 CdCl2+Lavendula	224	264
 <img width="384" height="421" alt="image" src="https://github.com/user-attachments/assets/5211d087-ad80-47d6-aeaf-7ace09505232" />
 
-<p align="center">
-  <video src="images/video.mp4" width="500px"></video>
-</p>
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
 
-<video src="images/video.mp4" width="320" height="240" controls></video>
+or
 
-![non working video](images/video.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/video-id" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
