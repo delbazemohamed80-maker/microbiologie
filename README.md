@@ -24,12 +24,11 @@ CdCl2+Lavendula	317	325
 CdCl2+Lavendula	224	264
 <img width="384" height="421" alt="image" src="https://github.com/user-attachments/assets/5211d087-ad80-47d6-aeaf-7ace09505232" />
 
+<p align="center">
+  <video src="images/video.mp4" width="500px"></video>
+</p>
 
-Title: Video title
-URL: YouTube.com/
-Description: One sentence
-Product: e.x. Projects
-Versions: e.x. fpt, GHES > 3.2
-Date added: YYYY-MM-DD
-Location: /where/in/docs
-Transcript: ./content/video-transcripts/filename
+<video src="images/video.mp4" width="320" height="240" controls></video>
+
+![non working video](images/video.mp4)
+
