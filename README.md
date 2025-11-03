@@ -24,5 +24,5 @@ CdCl2+Lavendula	317	325
 CdCl2+Lavendula	224	264
 <img width="384" height="421" alt="image" src="https://github.com/user-attachments/assets/5211d087-ad80-47d6-aeaf-7ace09505232" />
 
-<video src="https://github.com/user-attachments/assets/d0c3580a-7cbc-4ab1-ad04-42d4e35166bc" width="352" height="720"></video>
+<video src="https://www.youtube.com/watch?v=7kK_9aEHA6g" width="352" height="720"></video>
 
